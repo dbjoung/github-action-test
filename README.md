@@ -1,2 +1,2 @@
 # github-action-test
-깃헙 액션 공부
+AIBE3 깃헙 액션 학습
